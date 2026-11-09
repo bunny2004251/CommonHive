@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "COMMONHIVE",
+  "short_name": "COMMONHIVE",
+  "description": "A collaborative resource and knowledge hub for materials, capabilities and making.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0e0f",
+  "theme_color": "#0d0e0f",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
